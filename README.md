@@ -1,6 +1,6 @@
 # ColabMiner
 
-
+https://colab.research.google.com/github/TalhaOp522/ColabMiner/blob/main/Miner.ipynb
 
 ssh root@ -p
 
